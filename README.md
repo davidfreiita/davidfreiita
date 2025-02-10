@@ -1,6 +1,6 @@
 ## Olá! Eu sou o David Freitas
 
-- 📓 Estudando Python e JavaScript;
+- 📓 Estudando Python;
 - 🌱 Desenvolvimento pessoal;
 - ☕ Café é vida;
 
